@@ -2,7 +2,8 @@
 I'm Stepahn Jacques I'm Web developper
 
 My stats:
-https://github-profile-trophy.vercel.app/?username=Stephen2304
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stephen2304)](https://github.com/Stephen2304/github-profile-trophy)
 
 - 🔭 I’m currently working on a Medicine app, Portfolio App, Ecommerce App
 - 🌱 I’m currently learning -> flutter, React, Docker,

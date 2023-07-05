@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Stepahn Jacques I'm Web developper
+I'm Stephen Jacques I'm Web developper
 
 My stats:
 
